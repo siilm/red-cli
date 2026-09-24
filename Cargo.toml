@@ -3,6 +3,7 @@ name = "red"
 version = "0.1.0"
 edition = "2024"
 description = "red — 终端 Markdown 阅读器（TUI）"
+license = "MIT"
 
 [features]
 default = []

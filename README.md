@@ -209,3 +209,7 @@ cargo build
 ```
 
 其中 `cargo check` 用于快速检查默认构建，`cargo test` 运行项目测试，`cargo build` 验证默认产物。可选后端还应运行 `cargo check --features native-images` 和 `cargo test --features native-images`。项目当前没有额外的安装步骤或独立的运行时服务。
+
+## 许可证
+
+本项目采用 MIT 许可证，详见 [LICENSE](LICENSE)。
